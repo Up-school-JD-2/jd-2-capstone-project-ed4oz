@@ -1,5 +1,5 @@
 # jd-2-capstone-project-ed4oz
-jd-2-capstone-project-ed4oz created by GitHub Classroom
+
 Havayolları Biletleme Sistemi Backend Servis Uygulaması
 
 Teknolojiler:
