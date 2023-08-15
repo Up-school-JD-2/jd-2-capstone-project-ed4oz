@@ -1,16 +1,16 @@
 # jd-2-capstone-project-ed4oz
 
-#Havayolları Biletleme Sistemi Backend Servis Uygulaması
+# Havayolları Biletleme Sistemi Backend Servis Uygulaması
 
-###Teknolojiler:
--JAVA 17
--Maven
--Spring Boot 3
--MySQL Database
--Restful Web Service (JSON)
+### Teknolojiler:
+- JAVA 17
+- Maven
+- Spring Boot 3
+- MySQL Database
+- Restful Web Service (JSON)
 
 
-###Gereksinimler:
+### Gereksinimler:
 Havayolu şirketi eklenebilmeli ve aranabilmeli.
 Havaalanı eklenebilmeli ve aranabilmeli.
 Rota eklenebilmeli ve aranabilmeli.
@@ -25,7 +25,7 @@ API response’larının ortak bir yapı üzerinden dönülmesi.
 Private metodlar harici her yerin testleri yazılmalıdır (coverage minimum %60 olmalıdır).
 
 
-###Proje Formatı: 
+### Proje Formatı: 
 Proje GitHub üzerinden paylaşılmalı.
 Proje sadece backend servisler olarak gerçekleştirilmeli.
 Servislere ait dökümantasyon oluşturulmalı ve servislere ait JSON örnekleri paylaşılmalı.
